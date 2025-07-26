@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;accontrolsensorsubscribers&apos; to &apos;com.sa.safetynet.weather.accontrolsensorsubscriber&apos;&#x0D;&#x0A;- Original project: &apos;ACControlSensorSubscribers&apos;&#x0D;&#x0A;- Original element: &apos;ACControlSensorSubscribers/src/accontrolsensorsubscribers&apos;&#x0D;&#x0A;- Renamed element: &apos;ACControlSensorSubscribers/src/com.sa.safetynet.weather.accontrolsensorsubscriber&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;accontrolsensorsubscribers&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;accontrolsensorsubscribers" name="com.sa.safetynet.weather.accontrolsensorsubscriber" qualified="false" references="true" stamp="1741510241486" textual="false" version="1.0"/>
+</session>

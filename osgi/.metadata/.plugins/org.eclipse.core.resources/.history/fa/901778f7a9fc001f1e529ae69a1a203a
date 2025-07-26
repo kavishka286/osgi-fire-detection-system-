@@ -1,0 +1,6 @@
+package com.sa.weather;
+
+public interface GetAlertInterface {
+	public boolean getEmergState();
+
+}

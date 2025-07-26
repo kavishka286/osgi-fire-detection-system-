@@ -1,0 +1,6 @@
+1741499267312	Delete resource 'WeathersServicePublisher'
+1741499276802	Delete resource 'PowerServicePublisher'
+1741499283642	Delete resource 'LightControleSensorSubscriber'
+1741499296807	Delete resource 'HeatControleSensorSubscriber'
+1741499306036	Delete resource 'AlertEmergencyPublisher'
+1741499312393	Delete resource 'ACControleSensorSubscriber'

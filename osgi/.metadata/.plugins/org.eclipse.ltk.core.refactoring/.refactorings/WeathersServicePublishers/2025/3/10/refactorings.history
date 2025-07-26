@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;weathersservicepublishers&apos; to &apos;com.sa.safetynet.weather&apos;&#x0D;&#x0A;- Original project: &apos;WeathersServicePublishers&apos;&#x0D;&#x0A;- Original element: &apos;WeathersServicePublishers/src/weathersservicepublishers&apos;&#x0D;&#x0A;- Renamed element: &apos;WeathersServicePublishers/src/com.sa.safetynet.weather&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;weathersservicepublishers&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;weathersservicepublishers" name="com.sa.safetynet.weather" qualified="false" references="true" stamp="1741509510378" textual="false" version="1.0"/>
+</session>

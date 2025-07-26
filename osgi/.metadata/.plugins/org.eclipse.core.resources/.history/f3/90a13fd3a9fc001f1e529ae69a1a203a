@@ -1,0 +1,6 @@
+package com.sa.power;
+
+public interface PowerService {
+	public boolean powerOnStatus(String status);
+
+}

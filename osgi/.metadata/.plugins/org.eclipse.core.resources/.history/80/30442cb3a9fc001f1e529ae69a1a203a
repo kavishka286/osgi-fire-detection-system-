@@ -1,0 +1,47 @@
+package com.sa.weather;
+
+public class WeatherServiceImpl implements EmergencyWeatherHelper, WeatherService {
+
+	@Override
+	public void setTemperature(float temp) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void setLightIntensity(float intensity) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public float getLightIntensity() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public float getTemprature() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public void ACPowerOverride(String location, String command) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void HeatPowerOverride(String location, String command) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void LightPowerOverride(String location, String command) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

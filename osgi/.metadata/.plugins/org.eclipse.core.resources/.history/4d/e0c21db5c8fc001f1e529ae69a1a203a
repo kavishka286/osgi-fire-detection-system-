@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: FaceDetectionSubscribers
+Bundle-SymbolicName: FaceDetectionSubscribers
+Bundle-Version: 1.0.0.qualifier
+Import-Package: com.sa.safetynet.accesscontroller.autodoorsystem,
+ com.sa.safetynet.accesscontroller.empdetection
+Bundle-Activator: com.sa.safetynet.accesscontroller.facedetection.Activator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Automatic-Module-Name: FaceDetectionSubscribers
+Bundle-ActivationPolicy: lazy

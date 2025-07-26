@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: PowerMonitorSubscriber
+Bundle-SymbolicName: PowerMonitorSubscriber
+Bundle-Version: 1.0.0.qualifier
+Import-Package: com.sa.ecomonitor.power.alert,
+ com.sa.ecomonitor.weather.heatcontrolsensorsubscriber,
+ com.sa.ecomonitor.weather.lightcontrolsensorsubscriber,
+ com.sa.safetynet.power.solar
+Bundle-Activator: com.sa.ecomonitor.power.monitor.Activator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Automatic-Module-Name: PowerMonitorSubscriber
+Bundle-ActivationPolicy: lazy

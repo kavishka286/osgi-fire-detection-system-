@@ -1,0 +1,21 @@
+package com.sa.weather.lightcontrolsensorsubscriber;
+
+public class LightControlSensorServiceImpl implements LightControlSensorService {
+
+	@Override
+	public void turnOnLights(String[] areas) {
+		for (String area : areas) {
+            System.out.println("Turning on lights in: " + area);
+        }
+
+	}
+
+	@Override
+	public void turnOffLights(String[] areas) {
+		for (String area : areas) {
+            System.out.println("Turning off lights in: " + area);
+        }
+
+	}
+
+}

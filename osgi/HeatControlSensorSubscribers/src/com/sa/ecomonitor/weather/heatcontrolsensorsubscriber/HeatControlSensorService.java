@@ -1,0 +1,14 @@
+
+package com.sa.ecomonitor.weather.heatcontrolsensorsubscriber;
+
+public interface HeatControlSensorService {
+
+	// Method to turn on the heater with the specified temperature.
+    void turnOnHeater(String[] areas, int temp);
+    
+    // Method to turn off the heater for the specified areas.
+    void turnOffHeater(String[] areas);
+    
+    // Method to get the total number of heaters currently turned on.
+    int[] getTotalHeatersOn();
+}

@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: HeatControlSensorSubscribers
+Bundle-SymbolicName: HeatControlSensorSubscribers
+Bundle-Version: 1.0.0.qualifier
+Import-Package: com.sa.safetynet.weather
+Bundle-Activator: com.sa.safetynet.weather.heatcontrolsensorsubscriber.Activator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Automatic-Module-Name: HeatControlSensorSubscribers
+Bundle-ActivationPolicy: lazy

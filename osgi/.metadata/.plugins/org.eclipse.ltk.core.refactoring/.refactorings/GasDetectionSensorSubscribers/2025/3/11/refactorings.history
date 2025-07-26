@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.sa.safetynet.emergency.gas.sensor&apos; to &apos;com.sa.ecomonitor.emergency.gas.sensor&apos;&#x0D;&#x0A;- Original project: &apos;GasDetectionSensorSubscribers&apos;&#x0D;&#x0A;- Original element: &apos;GasDetectionSensorSubscribers/src/com.sa.safetynet.emergency.gas.sensor&apos;&#x0D;&#x0A;- Renamed element: &apos;GasDetectionSensorSubscribers/src/com.sa.ecomonitor.emergency.gas.sensor&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.sa.safetynet.emergency.gas.sensor&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.sa.safetynet.emergency.gas.sensor" name="com.sa.ecomonitor.emergency.gas.sensor" qualified="false" references="true" stamp="1741584495174" textual="false" version="1.0"/>
+</session>

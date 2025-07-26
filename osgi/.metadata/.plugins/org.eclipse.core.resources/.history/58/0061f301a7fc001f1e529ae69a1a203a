@@ -1,0 +1,17 @@
+package com.sa.weather.lightcontrolsensorsubscriber;
+
+public class LightControlSensorServiceImpl implements LightControlSensorService {
+
+	@Override
+	public void turnOnLights(String[] areas) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void turnOffLights(String[] areas) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

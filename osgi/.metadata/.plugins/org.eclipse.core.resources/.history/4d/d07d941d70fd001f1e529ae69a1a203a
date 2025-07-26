@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: EmergencyServicePublishers
+Bundle-SymbolicName: EmergencyServicePublishers
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.sa.safetynet.emergency.service
+Import-Package: com.sa.safetynet.accesscontroller.autodoorsystem,
+ com.sa.safetynet.alert,
+ com.sa.safetynet.power,
+ com.sa.safetynet.weather
+Bundle-Activator: com.sa.safetynet.emergency.service.Activator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Automatic-Module-Name: EmergencyServicePublishers
+Bundle-ActivationPolicy: lazy

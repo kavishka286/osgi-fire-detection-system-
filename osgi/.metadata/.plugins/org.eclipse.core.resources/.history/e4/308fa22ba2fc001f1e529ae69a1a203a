@@ -1,0 +1,5 @@
+package weathersservicepublisher;
+
+public interface WeatherService {
+
+}

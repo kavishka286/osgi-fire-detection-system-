@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.sa.safetynet.power.solar&apos; to &apos;com.sa.ecomonitor.power.solar&apos;&#x0D;&#x0A;- Original project: &apos;SolarServicePublisher&apos;&#x0D;&#x0A;- Original element: &apos;SolarServicePublisher/src/com.sa.safetynet.power.solar&apos;&#x0D;&#x0A;- Renamed element: &apos;SolarServicePublisher/src/com.sa.ecomonitor.power.solar&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.sa.safetynet.power.solar&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.sa.safetynet.power.solar" name="com.sa.ecomonitor.power.solar" qualified="false" references="true" stamp="1741584682322" textual="false" version="1.0"/>
+</session>

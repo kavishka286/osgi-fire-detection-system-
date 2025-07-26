@@ -1,0 +1,7 @@
+package com.sa.safetynet.weather.lightcontrolsensorsubscriber;
+
+public interface LightControlSensorService {
+	void turnOnLights(String[] areas);
+	 void turnOffLights(String[] areas);
+
+}

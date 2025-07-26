@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: PowerServicePublishers
+Bundle-SymbolicName: PowerServicePublishers
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.sa.safetynet.power.Activator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Automatic-Module-Name: PowerServicePublishers
+Bundle-ActivationPolicy: lazy
+Export-Package: com.sa.safetynet.power

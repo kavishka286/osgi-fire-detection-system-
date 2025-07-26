@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: LightControlSensorSubscribers
+Bundle-SymbolicName: LightControlSensorSubscribers
+Bundle-Version: 1.0.0.qualifier
+Import-Package: com.sa.ecomonitor.weather
+Bundle-Activator: com.sa.ecomonitor.weather.lightcontrolsensorsubscriber.Activator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Automatic-Module-Name: LightControlSensorSubscribers
+Bundle-ActivationPolicy: lazy
+Export-Package: com.sa.ecomonitor.weather.lightcontrolsensorsubscriber
